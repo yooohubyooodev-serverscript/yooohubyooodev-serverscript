@@ -216,3 +216,5 @@ We're always interested in meeting developers who are passionate about **Luau in
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0.gif" width="160" alt="Closing animation"/>
 
 </div>
+# Discord server
+dis:https://discord.gg/RCNMBCDswm
