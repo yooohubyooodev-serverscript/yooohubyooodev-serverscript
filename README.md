@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0.gif" width="180" alt="Welcome animation"/>
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0.gif" width="220" alt="Welcome animation"/>
 
 <br/>
 
@@ -24,17 +24,35 @@ Building tools, experimenting with technology, and turning ideas into real proje
 
 ## About Me
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-20.gif" width="280" alt="About me animation"/>
+</div>
+
+<br/>
+
 I'm a self-taught developer passionate about programming, software engineering, and exploring how things work under the hood.
 
 My main interests include **Roblox development**, **Luau scripting**, **compiler architecture**, **software protection**, **artificial intelligence**, and building tools that solve real problems.
 
 I enjoy experimenting with new technologies, learning through hands-on projects, and continuously improving my skills.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-15.gif" width="200" alt="Coding vibe"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image2.gif" width="200" alt="Developer mode"/>
+</div>
+
 ---
 
 ## Featured Project
 
 ### 🛡️ kkso882 Obfuscator — *kobfuscator*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-2.gif" width="320" alt="Obfuscator showcase"/>
+</div>
+
+<br/>
 
 A **VM-based Luau / Lua obfuscator** designed to transform scripts through a custom protection pipeline.
 
@@ -90,11 +108,21 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 
 **[Visit kobfuscator →](https://luau-obfuscator-api-seven.vercel.app/)**
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image6.gif" width="260" alt="Obfuscator in action"/>
+
 </div>
 
 ---
 
 ## Projects
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-10.gif" width="240" alt="Projects banner"/>
+</div>
+
+<br/>
 
 | Project | Description |
 |---------|-------------|
@@ -102,6 +130,12 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 | **YooHub** | Roblox scripting tools, custom UI systems, verification, and script distribution |
 | **Riceberry-UI** | Open-source dark-themed UI library designed for Roblox mobile |
 | **Speed++** | Experimental programming language exploring high-performance design |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-19.gif" width="200" alt="Project vibe"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image7.gif" width="200" alt="Building tools"/>
+</div>
 
 ---
 
@@ -122,6 +156,10 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=green)
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/logo.gif" width="80" alt="Logo"/>
+
 </div>
 
 ---
@@ -130,13 +168,15 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-4.gif" width="240" alt="Small but determined team"/>
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-4.gif" width="280" alt="Small but determined team"/>
 
 <br/>
 
 **Small team. Big ambitions.**
 
 </div>
+
+<br/>
 
 We may be a small team, but we're committed to building, experimenting, and improving.
 
@@ -157,9 +197,11 @@ We're always interested in meeting developers who are passionate about **Luau in
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-1.gif" width="140" alt="Animated sticker"/>
-<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-3.gif" width="140" alt="Animated sticker"/>
-<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/.trashed-1797925848-image0-2.gif" width="140" alt="Animated sticker"/>
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-1.gif" width="150" alt="Animated sticker"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-3.gif" width="150" alt="Animated sticker"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/.trashed-1797925848-image0-2.gif" width="150" alt="Animated sticker"/>
 
 <br/><br/>
 
@@ -168,5 +210,9 @@ We're always interested in meeting developers who are passionate about **Luau in
 <br/>
 
 **Interested in collaborating on kkso882 Obfuscator and other developer tools.**
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0.gif" width="160" alt="Closing animation"/>
 
 </div>
