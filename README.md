@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=yoohub%20(kkso882)&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Roblox%20%C2%B7%20Luau%20%C2%B7%20Software%20Security%20%C2%B7%20AI&descSize=20&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=300&section=header&text=yoohub%20%C2%B7%20kkso882&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Roblox%20%C2%B7%20Luau%20%C2%B7%20Software%20Security%20%C2%B7%20AI&descSize=20&descAlignY=62" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=B77BFF&center=true&vCenter=true&width=800&height=50&lines=Roblox+%26+Luau+Developer;Building+kkso882+Obfuscator;Software+Security+%26+AI+Engineering;Self-Taught+%7C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=D9B8FF&center=true&vCenter=true&width=820&height=55&lines=Roblox+%26+Luau+Developer;Building+kkso882+Obfuscator;Software+Security+%26+AI+Engineering;Compilers+%C2%B7+VMs+%C2%B7+Reverse+Engineering;Self-Taught+%7C+Always+Learning" alt="Typing SVG" />
 
 <br/>
 
@@ -14,12 +14,29 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yooohubyooodev-serverscript&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/yooohubyooodev-serverscript?style=for-the-badge&color=B77BFF&logo=github" alt="Followers"/>
 <a href="https://discord.gg/RCNMBCDswm"><img src="https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://luau-obfuscator-api-seven.vercel.app/"><img src="https://img.shields.io/badge/kobfuscator-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/></a>
 
+<br/><br/>
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-1a1a2e?style=flat-square" alt=""/></a>
+<a href="#%EF%B8%8F-featured-project--kkso882-obfuscator"><img src="https://img.shields.io/badge/Featured-1a1a2e?style=flat-square" alt=""/></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square" alt=""/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-1a1a2e?style=flat-square" alt=""/></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-1a1a2e?style=flat-square" alt=""/></a>
+<a href="#-looking-for-teammates"><img src="https://img.shields.io/badge/Team-1a1a2e?style=flat-square" alt=""/></a>
+<a href="#-discord-server"><img src="https://img.shields.io/badge/Discord-1a1a2e?style=flat-square" alt=""/></a>
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=About%20Me&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="About Me"/>
+
+</div>
 
 ## 👋 About Me
 
@@ -34,6 +51,7 @@ I'm a **self-taught developer** who loves figuring out how things work under the
 - 🤖 AI engineering, reinforcement learning (Double DQN)
 - 📱 Building software on mobile with **Termux**
 - ☁️ Cloudflare Workers · Render · Supabase · REST APIs
+- 🔍 Reverse engineering, automation, code protection
 - 🎥 Gaming & dev content on YouTube
 
 </td>
@@ -59,7 +77,13 @@ I'm a **self-taught developer** who loves figuring out how things work under the
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=Featured%20Project&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="Featured Project"/>
+
+</div>
 
 ## 🛡️ Featured Project — kkso882 Obfuscator
 
@@ -69,8 +93,10 @@ I'm a **self-taught developer** who loves figuring out how things work under the
 
 <br/>
 
+### **kobfuscator**
 **A VM-based Luau / Lua obfuscator with a custom protection pipeline.**
-<sub>Formerly *LuauShield* — rebuilt and rebranded as **kkso882 Obfuscator** (*kobfuscator*)</sub>
+
+<sub>Formerly *LuauShield* — rebuilt and rebranded as **kkso882 Obfuscator**</sub>
 
 <br/>
 
@@ -79,6 +105,19 @@ I'm a **self-taught developer** who loves figuring out how things work under the
 ![Version](https://img.shields.io/badge/Version-v5.0.1--beta-B77BFF?style=for-the-badge)
 
 </div>
+
+```mermaid
+flowchart LR
+    A([Luau script]) --> B[Validate]
+    B --> C[VM compile]
+    C --> D[Protect<br/>strings · control flow · anti-tamper]
+    D --> E([Protected output])
+    style A fill:#2b1055,stroke:#B77BFF,color:#fff
+    style B fill:#1a1a2e,stroke:#B77BFF,color:#fff
+    style C fill:#1a1a2e,stroke:#B77BFF,color:#fff
+    style D fill:#1a1a2e,stroke:#B77BFF,color:#fff
+    style E fill:#2b1055,stroke:#B77BFF,color:#fff
+```
 
 <table>
 <tr>
@@ -136,13 +175,23 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 
 <br/>
 
+<a href="https://luau-obfuscator-api-seven.vercel.app/"><b>Visit kobfuscator →</b></a>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image6.gif" width="170" alt="Obfuscator in action"/>
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-11.gif" width="170" alt="Blush"/>
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-25.gif" width="170" alt="Hanako"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=Projects&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="Projects"/>
+
+</div>
 
 ## 🚀 Projects
 
@@ -167,7 +216,13 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=Tech%20Stack&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="Tech Stack"/>
+
+</div>
 
 ## 🧠 Tech Stack
 
@@ -187,12 +242,21 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/logo.gif" width="70" alt="Logo"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=GitHub%20Stats&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="GitHub Stats"/>
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -204,19 +268,31 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooohubyooodev-serverscript&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top languages"/>
 <img src="https://github-profile-trophy.vercel.app/?username=yooohubyooodev-serverscript&theme=radical&no-frame=true&row=1&column=3" width="49%" alt="Trophies"/>
 
-</div>
-
 <br/>
 
-## 😂 Infrastructure Meme
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yooohubyooodev-serverscript&theme=react-dark&hide_border=true&area=true&color=B77BFF&line=8A2BE2&point=ffffff" width="98%" alt="Activity graph"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=Infrastructure%20Meme&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="Infrastructure Meme"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/HXWi_8JWwAEKUhd.jpg" width="480" alt="All Modern Digital Infrastructure"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=Looking%20for%20Teammates&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="Looking for Teammates"/>
+
+</div>
 
 ## 🤝 Looking for Teammates
 
@@ -231,16 +307,24 @@ curl -X POST https://luau-obfuscator-api-seven.vercel.app/api/obfuscate \
 
 I'm building **kkso882 Obfuscator** mostly on my own, and the codebase has grown bigger than one person can keep up with. If you're into any of these, let's talk:
 
-- 🔧 **Luau internals** & VM design
-- 🧬 **Compiler** / bytecode transformation
-- 🎨 **Frontend** (React / TypeScript)
-- 🔐 **Security** & reverse engineering
+| | Area |
+|:-:|------|
+| 🔧 | **Luau internals** & VM design |
+| 🧬 | **Compiler** / bytecode transformation |
+| 🎨 | **Frontend** (React / TypeScript) |
+| 🔐 | **Security** & reverse engineering |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3" width="100%" alt=""/>
 
 <div align="center">
 
-[![Join Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RCNMBCDswm)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&section=header&text=Discord%20Server&fontSize=30&animation=fadeIn&fontAlignY=52" width="100%" alt="Discord Server"/>
 
-<br/>
+</div>
+
+## 💬 Discord Server
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-1.gif" width="120" alt="Sticker"/>
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/image0-3.gif" width="120" alt="Sticker"/>
@@ -251,13 +335,9 @@ I'm building **kkso882 Obfuscator** mostly on my own, and the codebase has grown
 
 *Building projects, learning continuously, and exploring what's possible.*
 
-<br/>
-
 **Interested in collaborating on kkso882 Obfuscator and other developer tools.**
 
 <br/>
-
-### 💬 Discord Server
 
 [![Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RCNMBCDswm)
 
@@ -269,6 +349,8 @@ I'm building **kkso882 Obfuscator** mostly on my own, and the codebase has grown
 
 <img src="https://raw.githubusercontent.com/yooohubyooodev-serverscript/yooohubyooodev-serverscript/main/hug.gif" width="170" alt="Closing hug"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=B77BFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let's+build+something+great+together" alt="Footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
